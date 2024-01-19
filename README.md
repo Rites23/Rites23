@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Rites23/Rites23/assets/76614949/2e2940da-2c71-40c0-b24a-5ab0bdc7a302" alt="Your Image" width="2000">
+</p>
 
 <h1 align="center">Hi 👋, I'm Ritesh Balu</h1>
 <h3 align="center">Passionate Developer from South Africa</h3>
@@ -11,7 +14,7 @@
 
 - 🌱 I’m currently learning **Blockchain & Cryptocurrency (Web3.0). 
 - Graduate from HyperionDev, I have completed the Software Engineer Bootcamp, further enhancing my skills and solidifying my commitment to the tech field.
-- I am also a sudent at the Power Learn Project. #1MillionDevs4Africa**
+- I am also a former student at the Power Learn Project. #1MillionDevs4Africa**
 
 - 👯 I’m looking to collaborate on **Java, Python, CSS, HTML**
 
