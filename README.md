@@ -12,7 +12,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rites23" alt="rites23" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain & Cryptocurrency (Web3.0). 
+- 🌱 I’m currently learning **Blockchain & Cryptocurrency (Web3.0).
+- I recently enrolled in the HarvardX CS50x - Introduction to Computer Science Course (2024). 
 - Graduate from HyperionDev, I have completed the Software Engineer Bootcamp, further enhancing my skills and solidifying my commitment to the tech field.
 - I am also a former student at the Power Learn Project. #1MillionDevs4Africa**
 
