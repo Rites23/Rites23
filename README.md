@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ritesh Balu</h1>
-<h3 align="center">Passionate Developer from South Africa</h3>
+<h3 align="center">Future Tech Craftsman from South Africa</h3>
 <img align="right" alt="Coding" width="150" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg")
 
 
