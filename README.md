@@ -12,16 +12,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rites23" alt="rites23" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics to deepen my understanding of data interpretation and analysis.
+- 🌱 I’m currently learning Data Analytics, where I'm diving deep into data interpretation and analysis to extract meaningful insights.
 - I recently enrolled in a Data Analyst Bootcamp, where I'm gaining hands-on experience with tools and techniques to extract valuable insights from data. 
-- Graduate from HyperionDev, I have completed the Software Engineer Bootcamp, further enhancing my skills and solidifying my commitment to the tech field.
-- I am also a former student at the Power Learn Project. #1MillionDevs4Africa**
+- As a graduate of the HyperionDev Software Engineer Bootcamp, I have further enhanced my skills and solidified my commitment to the tech field. Additionally, I hold a Diploma in IT - Networking, providing me with a strong foundation in technology.
 
-- 👯 I’m looking to collaborate on **Java, Python, CSS, HTML**
+- 👯 I’m looking to collaborate on: **SQL, Python, R, Tableau**
 
-- 📫 How to reach me **ritesh.balu@gmail.com**
+- 📫 How to reach me: **ritesh.balu@gmail.com**
 
-- ⚡ Fun fact **Games got me interested in coding!**
+- ⚡ Fun fact: **My interest in coding was sparked by games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
