@@ -7,11 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rites23&label=Profile%20views&color=0e75b6&style=flat" alt="rites23" /> </p>
 
-- 🌱 I’m currently learning Data Analytics, where I'm diving deep into data interpretation and analysis to extract meaningful insights.
-- I recently enrolled in a Data Analyst Bootcamp, where I'm gaining hands-on experience with tools and techniques to extract valuable insights from data. 
+- 🌱 I’m currently learning Data Analytics and have enrolled in a hands-on Data Analyst Bootcamp, where I’m diving deep into data interpretation, analysis, and mastering tools and techniques to extract meaningful insights and drive data-driven decision-making.
 - As a graduate of the HyperionDev Software Engineer Bootcamp, I have further enhanced my skills and solidified my commitment to the tech field. Additionally, I hold a Diploma in IT - Networking, providing me with a strong foundation in technology.
 
-- 👯 I’m looking to collaborate on: **SQL, Python, R, Tableau**
+- 👯 I’m looking to collaborate on: **SQL, Python, R, Microsoft Power BI & Tableau**
 
 - 📫 How to reach me: **ritesh.balu@gmail.com**
 
