@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rites23&label=Profile%20views&color=0e75b6&style=flat" alt="rites23" /> </p>
 
-- 🌱 I’m currently learning Data Analytics through a hands-on Data Analyst Bootcamp, where I’m delving into data interpretation, analysis, and mastering tools and techniques to extract meaningful insights and enable data-driven decision-making.
-- As a graduate of the HyperionDev Software Engineer Bootcamp, I have further enhanced my skills and solidified my commitment to the tech field. Additionally, I hold a Diploma in IT - Networking, providing me with a strong foundation in technology.
+- 🌱 As a MERN Stack Web Developer, I specialize in creating dynamic, full-stack web applications using MongoDB, Express, React, and Node.js. I'm also actively expanding my knowledge in Data Analytics, mastering tools and techniques to interpret and analyze data, and uncover insights that drive informed, data-driven decision-making.
+- 🎓 Graduate of the HyperionDev Software Engineering Bootcamp, I’ve further refined my technical skills and deepened my passion for technology. Additionally, I hold a Diploma in IT - Networking, providing me with a solid foundation in IT and networking principles.
 
 - 👯 I’m looking to collaborate on: **SQL, Python, R, Microsoft Power BI & Tableau**
 
