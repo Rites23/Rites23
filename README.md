@@ -13,7 +13,7 @@
 - 🌱 As a MERN Stack Web Developer, I specialize in creating dynamic, full-stack web applications using MongoDB, Express, React, and Node.js. I'm also actively expanding my knowledge in Data Analytics, mastering tools and techniques to interpret and analyze data, and uncover insights that drive informed, data-driven decision-making.
 - 🎓 Graduate of the HyperionDev Software Engineering Bootcamp, I’ve further refined my technical skills and deepened my passion for technology. Additionally, I hold a Diploma in IT - Networking, providing me with a solid foundation in IT and networking principles.
 
-- 👯 I’m looking to collaborate on: **SQL, Python, R, Microsoft Power BI & Tableau**
+- 👯 I’m looking to collaborate on: **HTML, CSS, JavaScript, MongoDB, Express.js, React, and Node.js (MERN Stack)**
 
 - 📫 How to reach me: **ritesh.balu@gmail.com**
 
